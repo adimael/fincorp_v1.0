@@ -15,4 +15,3 @@ $ Password: 123
 
 ![Screenshot](/Screenshot/Screenshot1.PNG)
 ![Screenshot](/Screenshot/Screenshot2.PNG)
-![Screenshot](/Screenshot/Screenshot3.PNG)
